@@ -7,7 +7,7 @@ Git and GitHub workshop for beginners
 ## Create your local respository
 Clone the fork into your new folder:
 ```bash
-$ git clone https://github.com/<username>/beginners-workshop  
+$ git clone https://github.com/<USER_NAME>/beginners-workshop  
 ```
 <img src="https://user-images.githubusercontent.com/19731161/158017477-670f83b3-89f3-441e-ae77-9e8cc60a917d.png" width="60%" height="50%">
 
@@ -57,7 +57,6 @@ Check the status of your changes:
 Add **your_name.md** to the repo:
 ```bash
   $ git add <your_name.md>
-  $ git status
 ```
 >TIP: *git add* stages your changes. You cannot commit your changes until you have first staged them.
 
@@ -74,7 +73,7 @@ Commit your changes:
 
 Push your branch to the remote: 
 ```bash
-   $ git push -u origin <feature_yourname>
+   $ git push [ push | push -u origin <feature_yourname>]
    $ git status
 ```
 >**TIP:** You only need the *-u* command if your branch is not already upstream 
