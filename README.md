@@ -107,3 +107,6 @@ Comapre changes and submit your message
    $ git push --delete origin <feature_yourname>
    $ git branch -d <feature_yourname>
 ```
+## You're done!
+Once the PR will be merged, your profile will be added to this file:  
+[list_of_contributors.md](https://github.com/github-user-group/beginners-workshop/blob/main/list_of_contributors.md)
