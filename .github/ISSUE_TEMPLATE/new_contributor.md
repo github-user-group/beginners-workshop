@@ -1,7 +1,7 @@
 ---
 name: New contributor
 about: Become a new contributor for this project
-title: '<your_name>'
+title: '<your_name> want to be a contributor!'
 assignees: ''
 
 ---
@@ -14,5 +14,5 @@ Is this your first event?
 Favorite animal? 
 What is GitHub user URL?
 ```
-2. Push teh file with your answers
+2. Push the file with your answers
 3. Open a PR
