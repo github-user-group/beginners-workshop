@@ -110,3 +110,7 @@ Comapre changes and submit your message
 ## You're done!
 Once the PR will be merged, your profile will be added to this file:  
 [list_of_contributors.md](https://github.com/github-user-group/beginners-workshop/blob/main/list_of_contributors.md)
+
+## Feedback
+Feel free to [share your feedback](https://docs.google.com/forms/d/e/1FAIpQLSc0t1xhESrSMmWmApxIF6y4slloSgVrSWSCkDMKEcnAX3-hNg/viewform) so we will know how to improve for next time :)
+
